@@ -33,7 +33,7 @@ int main (void)
 
     }
 
-    // check given value and sum value  
+    // check given value = sum value  
     if (num == sum)
     {
         printf("The given number %d is armstrong\n",num);
